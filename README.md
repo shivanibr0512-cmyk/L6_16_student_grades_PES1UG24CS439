@@ -1,4 +1,5 @@
-# L6_L7_16_student_grades — Student Grades
+# L6_16_student_grades — Student Grades
+SRN- PES1UG24CS439
 
 Lab 6: Code and Branch Coverage
 
